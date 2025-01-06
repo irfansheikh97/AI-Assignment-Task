@@ -1,0 +1,5 @@
+pandas
+spacy
+matplotlib
+seaborn
+textblob
